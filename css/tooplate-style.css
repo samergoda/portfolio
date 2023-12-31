@@ -292,7 +292,7 @@ b, strong {
 .dark-mode {
   background: #0c0c0d;
 }
-.dark-mode .navbar-light .navbar-nav .nav-link ,.dark-mode a,.dark-mode span ,.dark-mode li{
+.dark-mode .navbar-light .navbar-nav .nav-link ,.dark-mode a,.dark-mode span ,.dark-mode li,.dark-mode p{
   color: rgba(255, 255, 255, 0.8);
 }
 .dark-mode .navbar-light .navbar-nav .nav-link:hover {
@@ -580,4 +580,10 @@ b, strong {
 }
 .project-tech{
   margin-bottom:8px ;
+}
+.social-links li {
+  text-align: center;
+}
+.social-links li a {
+  color: #f7f3f3;
 }

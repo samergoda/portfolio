@@ -28,21 +28,21 @@ console.log(data);
     const projectItem = `
       <div class="item">
         <div class="project-info">
-        
-          <img src=${project.img} class="img-fluid" alt=${project.name} />
-        
-          <a href=${project.link} class='  project-name'>${project.name}</a>
-          <span class='  project-tech'>${project.tecnology}</span>
+          <a href="${project.link}" target="_blank"> <!-- Add anchor element with the project link -->
+            <img src="${project.img}" class="img-fluid" alt="${project.name}" />
+          </a>
+          <h3>${project.name}</h3>
+          <span>${project.tecnology}</span>
         </div>
       </div>
     `;
-
+  
     owlCarouselContainer.trigger("add.owl.carousel", [$(projectItem)]);
   });
-
+  
   // Refresh Owl Carousel to display added items
   owlCarouselContainer.trigger("refresh.owl.carousel");
-
+  
   // SMOOTHSCROLL
   $(function () {
     $(".nav-link, .custom-btn-link").on("click", function (event) {
