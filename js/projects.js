@@ -21,6 +21,12 @@ const data = [
     link: "https://react-project-ey7xieuf1-samergoda.vercel.app/",
   },
   {
+    name: "world wise",
+    img: "./../images/project/world-wise.PNG",
+    tecnology: "React Router, context API, memo, useMemo, useCallback",
+    link: "https://world-wise-jade.vercel.app/",
+  },
+  {
     name: "use popcorn",
     img: "./../images/project/popcorn.PNG",
     tecnology: "useEffect, data fetching, custom hooks",
