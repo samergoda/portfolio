@@ -6,6 +6,13 @@ const data = [
       "React Router data loading, Redux, Redux Toolkit, thunks, Tailwind CSS",
     link: "https://react-fast-pizza-samer.netlify.app/menu",
   },
+  {
+    name: "wild oasis",
+    img: "./../images/project/wild.PNG",
+    tecnology:
+      "React Query, Styled Components, React Hook Form, Supabase, advanced compound component pattern , professional application planning and development",
+    link: "https://wild-oasis-seven-zeta.vercel.app",
+  },
 
   {
     name: "Game Over",
