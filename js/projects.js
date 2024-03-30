@@ -13,6 +13,13 @@ const data = [
       "React Query, Styled Components, React Hook Form, Supabase, advanced compound component pattern , professional application planning and development",
     link: "https://wild-oasis-seven-zeta.vercel.app",
   },
+  {
+    name: "Anime Project",
+    img: "./../images/project/animeNext.PNG",
+    tecnology:
+      "Next 14, Server Side App with Server Actions,Framer Motion , Infinite Scroll",
+    link: "https://wild-oasis-seven-zeta.vercel.app",
+  },
 
   {
     name: "Game Over",
