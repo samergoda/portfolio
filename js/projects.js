@@ -18,7 +18,7 @@ const data = [
     img: "./../images/project/animeNext.PNG",
     tecnology:
       "Next 14, Server Side App with Server Actions,Framer Motion , Infinite Scroll",
-    link: "https://wild-oasis-seven-zeta.vercel.app",
+    link: "https://anime-next-app-gules.vercel.app/",
   },
 
   {
