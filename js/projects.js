@@ -14,6 +14,13 @@ const data = [
     link: "https://wild-oasis-seven-zeta.vercel.app",
   },
   {
+    name: "vue weather app",
+    img: "./../images/project/vue-weather.PNG",
+    tecnology:
+      "Vue 3, tailwind, Supabase, Router ,fetch API",
+    link: "https://wild-oasis-seven-zeta.vercel.app",
+  },
+  {
     name: "Anime Project",
     img: "./../images/project/animeNext.PNG",
     tecnology:
