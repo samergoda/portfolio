@@ -4,7 +4,7 @@ const data = [
     img: "./../images/project/Capture.PNG",
     tecnology:
       "React Router data loading, Redux, Redux Toolkit, thunks, Tailwind CSS",
-    link: "https://react-fast-pizza-samer.netlify.app/menu",
+    link: "https://react-fast-pizza-samer.netlify.app",
   },
   {
     name: "wild oasis",
