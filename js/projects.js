@@ -38,7 +38,7 @@ const data = [
   {
     name: "Todo List Vue3",
     img: "./../images/project/todo.PNG",
-    tecnology: "Vue3",
+    tecnology: "Vue3 - watch - onMounted - computed - localStorage",
     link: "https://todo-vue-jet-beta.vercel.app/",
   },
 
