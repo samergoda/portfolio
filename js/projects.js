@@ -13,11 +13,11 @@ const data = [
       "React Query, Styled Components, React Hook Form, Supabase, advanced compound component pattern , professional application planning and development",
     link: "https://wild-oasis-seven-zeta.vercel.app",
   },
-  {
+  { 
     name: "vue weather app",
     img: "./../images/project/vue-weather.PNG",
     tecnology:
-      "Vue 3, tailwind, Supabase, Router ,fetch API",
+      "Vue 3, tailwind, Suspens , Router ,fetch API",
     link: "https://wild-oasis-seven-zeta.vercel.app",
   },
   {
@@ -34,6 +34,14 @@ const data = [
     tecnology: "React- react-router - axios - joi - bootstrap -SPA",
     link: "https://game-over-react.vercel.app/",
   },
+  
+  {
+    name: "Todo List Vue3",
+    img: "./../images/project/todo.PNG",
+    tecnology: "Vue3",
+    link: "https://todo-vue-jet-beta.vercel.app/",
+  },
+
   {
     name: "React project",
     img: "./../images/project/2.PNG",
