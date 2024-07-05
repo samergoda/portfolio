@@ -1,5 +1,12 @@
 const data = [
   {
+    name: "Wild Oasis Next",
+    img: "./../images/project/wild-next.PNG",
+    tecnology:
+      'Next.js "app" router, React Server Components, server actions, authentication with NextAuth , Tailwind CSS',
+    link: "https://react-fast-pizza-samer.netlify.app",
+  },
+  {
     name: "Fast Pizza React",
     img: "./../images/project/Capture.PNG",
     tecnology:
@@ -13,6 +20,13 @@ const data = [
       "React Query, Styled Components, React Hook Form, Supabase, advanced compound component pattern , professional application planning and development",
     link: "https://wild-oasis-seven-zeta.vercel.app",
   },
+  {
+    name: "IMDP clone",
+    img: "./../images/project/imdp.PNG",
+    tecnology:
+      "Next.js, Tailwind CSS, React Server Components, server actions, Supabase, advanced compound component pattern ",
+    link: "https://wild-oasis-seven-zeta.vercel.app",
+  },
   { 
     name: "vue weather app",
     img: "./../images/project/vue-weather.PNG",
@@ -24,7 +38,7 @@ const data = [
     name: "Anime Project",
     img: "./../images/project/animeNext.PNG",
     tecnology:
-      "Next 14, Server Side App with Server Actions,Framer Motion , Infinite Scroll",
+      "Next 14, Server Side App with Server Actions,Framer Motion , Infinite Scroll, TypeScript",
     link: "https://anime-next-app-gules.vercel.app/",
   },
 
