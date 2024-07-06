@@ -4,7 +4,7 @@ const data = [
     img: "./../images/project/wild-next.PNG",
     tecnology:
       'Next.js "app" router, React Server Components, server actions, authentication with NextAuth , Tailwind CSS',
-    link: "https://react-fast-pizza-samer.netlify.app",
+    link: "https://wild-oasis-next.vercel.app/",
   },
   {
     name: "Fast Pizza React",
@@ -25,7 +25,7 @@ const data = [
     img: "./../images/project/imdp.PNG",
     tecnology:
       "Next.js, Tailwind CSS, React Server Components, server actions, Supabase, advanced compound component pattern ",
-    link: "https://wild-oasis-seven-zeta.vercel.app",
+    link: "https://imdb-next-khaki.vercel.app/",
   },
   { 
     name: "vue weather app",
